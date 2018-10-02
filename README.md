@@ -3,7 +3,7 @@
 * WebPage[here]()
 * Lightning [here](https://nmags7.github.io/lightning2/)
 * Lightning JS [here]()
-* Dice [here]()
+* Dice [here](https://nmags7.github.io/dice3/)
 
 ```Java
 for(int i=10; i<1230; i+=100){
