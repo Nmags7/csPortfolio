@@ -1,4 +1,4 @@
-# csPortfolio
+# Mags's Portfolio
 
 * WebPage[here]()
 * Lightning [here](https://nmags7.github.io/lightning2/)
