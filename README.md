@@ -2,7 +2,7 @@
 
 * WebPage[here](https://nmags7.github.io/testWeb/NickMags/NickMagnuson.html)
 * Lightning [here](https://nmags7.github.io/lightning2/)
-* Lightning JS [here](https://nmags7.github.io/lightning2/lightningjs/)
+* Lightning JS [here](https://nmags7.github.io/LightningJS/magsJS/)
 * Dice [here](https://nmags7.github.io/dice3/)
 * College Presentation [UMD](https://nmags7.github.io/testWeb/NickMags/umd.html)
 * Chemotaxis [here](https://nmags7.github.io/chemotaxis4/magsJS/)
