@@ -20,11 +20,17 @@
 <body>
 <ol>
   <li>Reflect on all your portfolio projects. </li>
+  
+  
   <Enter> <p>See individual projects</p>
   <li> What is one or two things that are a source of pride in your programming development? </li>
+  
+  
   <Enter> <p>I'm (semi) proud of my starfield project</p>
     
   <li>Identify them, write about why they are accomplishments, how you did it and what you learned.  Be sure to submit a code snippet along with your writing on the readMe file in your repo.</li>
+
+
 <Enter> <p>The starfield project is an area of pride to me, not because of uniqueness, but because I was able to finish early and assist others. Here is possibly the only unique thing in my project. I decrement speed rather than leaving it constant.</p>
     
     
@@ -44,9 +50,13 @@ void move(){
 <Enter> <p>Learning how to navigate github was an area of struggle for me. Specifically, creating repositories and using gh-pages to create links to my work stressed me out. I understand that forking from ACS curriculum creates a repository for me, but thanks to LightningJS, I'm confident in my ability to create my own repository and find the link to work I decide to make public. </p>
 
  <li>Once you are ready to submit your writing and code examples, study markdown (language used on github to format text </li>
+ 
+ 
  <Enter> <p></p>
 
 <li>Describe the incremental and iterative development process of your included code, focusing on two distinct points in the development process. Describe the difficulties and/ or opportunities you encountered and how they were resolved or incorporated. In your description clearly indicate whether the development described was collaborative or independent. At least one of these points must refer to independent program development.</li>
+
+
 <Enter><p></p>
 
 </ol>
