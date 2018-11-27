@@ -11,7 +11,7 @@
 <body>
 <ol>
   <li>Reflect on all your portfolio projects. </li>
-  <h3>See individual projects</h3>
+  <h4>See individual projects</h4>
   <li> What is one or two things that are a source of pride in your programming development? </li>
   <p>I'm (semi) proud of my starfield project not because of uniqueness, but because I was able to finish early and assist others.</p>
   <li>Identify them, write about why they are accomplishments, how you did it and what you learned.  Be sure to submit a code snippet along with your writing on the readMe file in your repo.</li>
