@@ -18,3 +18,6 @@ for(int i=10; i<1230; i+=100){
     }
   }
 ```
+<body>
+    <p>All of my projects meet requirements, but aren't really unique. I'm (semi) proud of my starfield project not because of uniqueness, but because I was able to finish early and assist others.</p>
+</body>
