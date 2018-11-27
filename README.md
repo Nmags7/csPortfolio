@@ -8,6 +8,7 @@
 * Chemotaxis [here](https://nmags7.github.io/chemotaxis4/magsJS/)
 * Starfield [here](https://nmags7.github.io/starfield5)
 
+<body>
 <ol>
   <li>Reflect on all your portfolio projects. </li>
   <li>2.) What is one or two things that are a source of pride in your programming development? </li>
@@ -17,7 +18,8 @@
     <li>Describe the incremental and iterative development process of your included code, focusing on two distinct points in the development process. Describe the difficulties and/ or opportunities you encountered and how they were resolved or incorporated. In your description clearly indicate whether the development described was collaborative or independent. At least one of these points must refer to independent program development.</li>
 </ol>
 
-    <p>All of my projects meet requirements, but aren't really unique. I'm (semi) proud of my starfield project not because of uniqueness, but because I was able to finish early and assist others.</p>
+ <p>All of my projects meet requirements, but aren't really unique. I'm (semi) proud of my starfield project not because of uniqueness, but because I was able to finish early and assist others.</p>
+    </body>
 
 ```Java
 for(int i=10; i<1230; i+=100){
