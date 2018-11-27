@@ -40,6 +40,7 @@ void move(){
     
 <li>Identify the most significant hurdle you encountered last trimester.  Write about what it was and how it was resolved </li>
     
+
 <p>Learning how to navigate github was an area of struggle for me. Specifically, creating repositories and using gh-pages to create links to my work stressed me out. I understand that forking from ACS curriculum creates a repository for me, but thanks to LightningJS, I'm confident in my ability to create my own repository and find the link to work I decide to make public. </p>
 
  <li>Once you are ready to submit your writing and code examples, study markdown (language used on github to format text </li>
@@ -50,7 +51,7 @@ void move(){
 
 </ol>
 
-    </body>
+</body>
 
 
 
