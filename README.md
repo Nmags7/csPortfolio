@@ -1,5 +1,10 @@
 # Mags's Portfolio
 
+<details>
+<summary>Webpage</summary>
+<br>
+[here](https://nmags7.github.io/testWeb/NickMags/NickMagnuson.html)<details>
+
 * WebPage[here](https://nmags7.github.io/testWeb/NickMags/NickMagnuson.html)
 * Lightning [here](https://nmags7.github.io/lightning2/)
 * Lightning JS [here](https://nmags7.github.io/LightningJS/magsJS/)
@@ -24,7 +29,9 @@
  <li>Once you are ready to submit your writing and code examples, study markdown (language used on github to format text </li>
       <p></p>
 
-    <li>Describe the incremental and iterative development process of your included code, focusing on two distinct points in the development process. Describe the difficulties and/ or opportunities you encountered and how they were resolved or incorporated. In your description clearly indicate whether the development described was collaborative or independent. At least one of these points must refer to independent program development.</li>
+<li>Describe the incremental and iterative development process of your included code, focusing on two distinct points in the development process. Describe the difficulties and/ or opportunities you encountered and how they were resolved or incorporated. In your description clearly indicate whether the development described was collaborative or independent. At least one of these points must refer to independent program development.</li>
+  <p></p>
+
 </ol>
 
     </body>
