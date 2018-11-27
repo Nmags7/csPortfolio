@@ -20,16 +20,29 @@
 <body>
 <ol>
   <li>Reflect on all your portfolio projects. </li>
-  <p>See individual projects</p>
+    <p>See individual projects</p>
   <li> What is one or two things that are a source of pride in your programming development? </li>
-  <p>I'm (semi) proud of my starfield project not because of uniqueness, but because I was able to finish early and assist others.</p>
+    <p>I'm (semi) proud of my starfield project</p>
+    
   <li>Identify them, write about why they are accomplishments, how you did it and what you learned.  Be sure to submit a code snippet along with your writing on the readMe file in your repo.</li>
-  <p></p>
-    <li>Identify the most significant hurdle you encountered last trimester.  Write about what it was and how it was resolved </li>
-    <p></p>
+    <p>The starfield project is an area of pride to me, not because of uniqueness, but because I was able to finish early and assist others.</p>
+    
+    
+```Java
+void move(){
+    x+=sin((float)angle)*speed;
+    y+=cos((float)angle)*speed;
+    angle+=.05;
+    speed-=.01;
+  }
+```
+    
+    
+<li>Identify the most significant hurdle you encountered last trimester.  Write about what it was and how it was resolved </li>
+    <p>Learning how to navigate githud was an area of struggle for me. Specifically, creating repositories and using gh-pages to create links to my work stressed me out. I understand that forking from ACS curriculum creates a repository for me, but thanks to LightningJS, I'm confident in my ability to create my own repository and find the link to work I decide to make public. </p>
 
  <li>Once you are ready to submit your writing and code examples, study markdown (language used on github to format text </li>
-      <p></p>
+     <p></p>
 
 <li>Describe the incremental and iterative development process of your included code, focusing on two distinct points in the development process. Describe the difficulties and/ or opportunities you encountered and how they were resolved or incorporated. In your description clearly indicate whether the development described was collaborative or independent. At least one of these points must refer to independent program development.</li>
   <p></p>
@@ -38,14 +51,5 @@
 
     </body>
 
-```Java
-for(int i=10; i<1230; i+=100){
-    for(int y=10; y<1230; y+=100){
-      Die d=new Die(i,y);
-      d.roll();
-      d.show();
-      sum=sum+d.getNum();
-    }
-  }
-```
+
 
