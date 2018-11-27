@@ -58,7 +58,16 @@ void move(){
 
 
 <Enter> <ol>
-    <li><p>problem 1</p></li>
+    <li>
+```Java
+void move(){
+    x+=sin((float)angle)*speed;
+    y+=cos((float)angle)*speed;
+    angle+=.05;
+    speed-=.01;
+  }
+```
+        <p>This is my code for constant speed motion in my chemotaxis project. I learned how to make use of component vectors, and make ever updating horazontal and vertical velocity variables. 1</p></li>
     <li><p>problem 2</p></li>
     </ol>
 
