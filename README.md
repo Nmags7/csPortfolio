@@ -3,7 +3,8 @@
 <details>
 <summary>Webpage</summary>
 <br>
-[here](https://nmags7.github.io/testWeb/NickMags/NickMagnuson.html)<details>
+WebPage[here](https://nmags7.github.io/testWeb/NickMags/NickMagnuson.html)
+</details>
 
 * WebPage[here](https://nmags7.github.io/testWeb/NickMags/NickMagnuson.html)
 * Lightning [here](https://nmags7.github.io/lightning2/)
