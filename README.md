@@ -59,14 +59,14 @@ void move(){
 
 <Enter> <ol>
 <li> <p>This is my code for constant speed motion in my chemotaxis project. I learned how to make use of component vectors, and make ever updating horazontal and vertical velocity variables. </p> </li>
-```Java
-void move(){
-    x+=sin((float)angle)*speed;
-    y+=cos((float)angle)*speed;
-    angle+=.05;
-    speed-=.01;
-  }
-```
+    ```
+    void move(){
+        x+=sin((float)angle)*speed;
+        y+=cos((float)angle)*speed;
+        angle+=.05;
+        speed-=.01
+    }
+    ```
 
 <li><p>Here is my code for creating a button on my webpage. My button is a link to my football highlight tape. Orininally, I had created a link, but the alternate color made for weird display of the text itself. Instead, I created a white button that was a bridge between the webpage and my highlight tape.</p></li>
 ```
