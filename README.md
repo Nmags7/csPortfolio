@@ -8,7 +8,14 @@
 * Chemotaxis [here](https://nmags7.github.io/chemotaxis4/magsJS/)
 * Starfield [here](https://nmags7.github.io/starfield5)
 
-
+<ol>
+  <li>1.) Reflect on all your portfolio projects. </li>
+  <li>2.) What is one or two things that are a source of pride in your programming development? </li>
+  <li>3.)Identify them, write about why they are accomplishments, how you did it and what you learned.  Be sure to submit a code snippet along with your writing on the readMe file in your repo.</li>
+    <li>4.)</li>
+    <li>5.)</li>
+    <li>6.)</li>
+</ol>
 <body>
     <p>All of my projects meet requirements, but aren't really unique. I'm (semi) proud of my starfield project not because of uniqueness, but because I was able to finish early and assist others.</p>
 </body>
