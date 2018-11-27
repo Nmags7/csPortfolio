@@ -25,7 +25,7 @@
   <Enter> <p>I'm (semi) proud of my starfield project</p>
     
   <li>Identify them, write about why they are accomplishments, how you did it and what you learned.  Be sure to submit a code snippet along with your writing on the readMe file in your repo.</li>
-<Enter> <p>The starfield project is an area of pride to me, not because of uniqueness, but because I was able to finish early and assist others.</p>
+<Enter> <p>The starfield project is an area of pride to me, not because of uniqueness, but because I was able to finish early and assist others. Here is possibly the only unique thing in my project. I decrement speed rather than leaving it constant.</p>
     
     
 ```Java
