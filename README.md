@@ -11,8 +11,8 @@
 <body>
 <ol>
   <li>Reflect on all your portfolio projects. </li>
-  <li>2.) What is one or two things that are a source of pride in your programming development? </li>
-  <li>3.)Identify them, write about why they are accomplishments, how you did it and what you learned.  Be sure to submit a code snippet along with your writing on the readMe file in your repo.</li>
+  <li> What is one or two things that are a source of pride in your programming development? </li>
+  <li>Identify them, write about why they are accomplishments, how you did it and what you learned.  Be sure to submit a code snippet along with your writing on the readMe file in your repo.</li>
     <li>Identify the most significant hurdle you encountered last trimester.  Write about what it was and how it was resolved </li>
     <li>Once you are ready to submit your writing and code examples, study markdown (language used on github to format text </li>
     <li>Describe the incremental and iterative development process of your included code, focusing on two distinct points in the development process. Describe the difficulties and/ or opportunities you encountered and how they were resolved or incorporated. In your description clearly indicate whether the development described was collaborative or independent. At least one of these points must refer to independent program development.</li>
