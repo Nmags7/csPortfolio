@@ -52,12 +52,15 @@ void move(){
  <li>Once you are ready to submit your writing and code examples, study markdown (language used on github to format text </li>
  
  
- <Enter> <p></p>
+ <Enter> <p>Done in this portfolio.</p>
 
 <li>Describe the incremental and iterative development process of your included code, focusing on two distinct points in the development process. Describe the difficulties and/ or opportunities you encountered and how they were resolved or incorporated. In your description clearly indicate whether the development described was collaborative or independent. At least one of these points must refer to independent program development.</li>
 
 
-<Enter><p></p>
+<Enter> <ol>
+    <li><p>problem 1</p></li>
+    <li><p>problem 2</p></li>
+    </ol>
 
 </ol>
 
