@@ -11,7 +11,7 @@
     <p>This wasn't too tough to code, as it simply took learning how to embed a google slides presentation. UMD ended up being the school I chose to go to, and I'm happy I was forced to organize the information I recieved on my visit in the form of a presentation. </p>
 * Chemotaxis [here](https://github.com/Nmags7/chemotaxis4)
     <p>This was when I learned how to effectively use the API. Specifically, I used it to find the interactive methods/variables in the java processing api.</p>
-* Starfield [here](https://github.com/Nmags7/starfield5)
+* Starfield [here](https://nmags7.github.io/starfield5-1/)
     <p>This is definately the most eye catching project on my portfolio, but the code isn't super unique compared to the rest of my class. The one unique thing is the fact that I am decrementing speed, which eltimately makes my starfield grow outwardly.</p>
 * Holiday Card [here](https://github.com/Nmags7/HolidayCard)
     <p>This is definately the most eye catching project on my portfolio, but the code isn't super unique compared to the rest of my class. The one unique thing is the fact that I am decrementing speed, which eltimately makes my starfield grow outwardly.</p>
