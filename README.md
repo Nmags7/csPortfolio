@@ -6,7 +6,7 @@
     <p>I put in a very very minimal effort into this project. I never really comprehended the code, but rather followed the instructions in github. I wasn't quite familiar with processing just yet, and at the time following directions was what I needed. Nontheless, my lightning still met requirements. </p>
 * Lightning JS [here](https://nmags7.github.io/LightningJS/magsJS/)
     <p>This was my inroduction to JavaScript. I learned that I do not like coding originally in it, but converting from Java to JavaScript is manageable due to a handy IPE called Brackets.</p>
-* Dice [here](https://nmags7.github.io/csPortfolio/dice3/)
+* Dice [here](https://nmags7.github.io/dice3/)
     <p>I hardcoded this whole thing without copying the "structure" of the code in the ACS curriculum. I definately could have copied (I do it for most projects/labs) but doing it this way helped me navigate processing. The project itself isn't too fancy, but coding it was very logical, and satisfying to me considering all the new stuff I had been learning up to this point. </p>
 * College Presentation [UMD](https://nmags7.github.io/testWeb/NickMags/umd.html)
     <p>This wasn't too tough to code, as it simply took learning how to embed a google slides presentation. UMD ended up being the school I chose to go to, and I'm happy I was forced to organize the information I recieved on my visit in the form of a presentation. </p>
