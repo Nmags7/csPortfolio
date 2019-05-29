@@ -16,8 +16,7 @@
     <p>This was when I learned how to effectively use the API. Specifically, I used it to find the interactive methods/variables in the java processing api.</p>
 * Starfield [here](https://nmags7.github.io/starfield5)
     <p>This is definately the most eye catching project on my portfolio, but the code isn't super unique compared to the rest of my class. The one unique thing is the fact that I am decrementing speed, which eltimately makes my starfield grow outwardly.</p>
-
-
+* Fleich Readability 
 
 <body>
 <ol>
