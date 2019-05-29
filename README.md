@@ -1,7 +1,4 @@
 # Mags's Portfolio
-    <details><summary><strong>NEW PORTFOLIO</strong></summary>
-    <p>
-        <a href="https://Nmags7.github.io/csPortfolio/">Link<a>
 * WebPage[here](https://nmags7.github.io/testWeb/NickMags/NickMagnuson.html)
     <p>I enjoyed this project. HTML and CSS were completely foreign to me, but not too difficult to learn. Also this was the first time I make a project public, and that seemed more cool at the time than it does now. I definately could've put a little more effort into this one, but I procrastinated hardcore.</p>
 * Lightning [here](https://nmags7.github.io/lightning2/)
