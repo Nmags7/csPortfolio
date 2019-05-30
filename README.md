@@ -9,8 +9,8 @@
     <p>This is definately the most eye catching project on my portfolio, but the code isn't super unique compared to the rest of my class. The one unique thing is the fact that I am decrementing speed, which eltimately makes my starfield grow outwardly.</p>
 * Holiday Card [Photo of it, its difficult to get the project to run in live time, because it uses an arrayList](https://github.com/Nmags7/csPortfolio/blob/gh-pages/Screen%20Shot%202019-05-29%20at%209.23.47%20PM.png)
     <p>This project allows the user to decorate the christmas tree. It does so by adding an ellipse to an arrayList, based on the location of the user's mouse.</p>
-* Readability [here](https://nmags7.github.io/starfield5)
-    <p>This is definately the most eye catching project on my portfolio, but the code isn't super unique compared to the rest of my class. The one unique thing is the fact that I am decrementing speed, which eltimately makes my starfield grow outwardly.</p>
+* Readability [Photo](https://github.com/Nmags7/csPortfolio/blob/gh-pages/Screen%20Shot%202019-05-28%20at%2010.04.23%20PM.png)
+    <p>This project reads a .txt file of huck finn, and outputs data based on the Fleisch Readablitiy Index.</p>
 * Marvel Face Mask [here](https://github.com/Nmags7/FinalProject)
     <p>This is definately the most eye catching project on my portfolio, but the code isn't super unique compared to the rest of my class. The one unique thing is the fact that I am decrementing speed, which eltimately makes my starfield grow outwardly.</p>
 
